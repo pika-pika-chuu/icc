@@ -4,7 +4,7 @@ A series of tools &amp; tutorials for internet censorship circumvention
 ## Prerequisite
 - A Virtual Private Server (VPS)
 - V2Ray/Vmess server app
-- Content Delivery Network provider for your VPS
+- Content Delivery Network (CDN) provider for your VPS
 - Mobile application for connecting to your VPS
 
 Follow the steps below in order.
