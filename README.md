@@ -34,7 +34,7 @@ In your EC2 or Droplet instance, follow the instructions provided in the followi
 You can find a list of avaliable free CDN providers at [Free CDN List](https://geekflare.com/free-cdn-list/). Here we use **Cloudflare** as the CDN of our choice: [How to Setup Cloudflare Free CDN?](https://www.youtube.com/watch?v=N7n_HtvwNVA)
 
 ### 4. Download the client apps for your mobiles or PCs
-Here you can find the list of files for every platform available. You will use the settings you set in [step 2](https://github.com/pika-pika-chuu/icc/edit/main/README.md#2-setup-your-v2ray-server) of this instructional: [v2ray-core releases](https://github.com/v2ray/v2ray-core/releases)
+Here you can find the list of files for every platform available. You will use the settings you set in [step 2](https://github.com/pika-pika-chuu/icc/blob/main/README.md#2-setup-your-v2ray-server) of this instructional: [v2ray-core releases](https://github.com/v2ray/v2ray-core/releases)
 
 #### Other available apps
 - **Android**:
@@ -47,7 +47,7 @@ Most likely, the users behind the censored networks are unable to download these
 - E-mail attachments (Gmail, Yahoo, etc.) for small binaries `>25 MB`.
 - File hosting services (Google Drive, Dropbox, etc.) for large binaries `<25 MB`.
 
-These methods are better used in combination with [File encryption](https://github.com/pika-pika-chuu/icc/edit/main/README.md#file-encryption).
+These methods are better used in combination with [File encryption](https://github.com/pika-pika-chuu/icc/blob/main/README.md#file-encryption).
 
 ##### File encryption
 Binary files will most likely be blocked by email and file hosting services and flagged as *malicious files*. To mitigate this issue, you need to **encrypt** these files:
@@ -57,11 +57,11 @@ Binary files will most likely be blocked by email and file hosting services and 
 #### Install apps in iOS using iTunes
 Unlike Android, iOS apps do not release their apps as files/binaries. If users cannot access the **App Store** on their iPhones, they need to install the app through iTunes on their PC or laptop:
 1. Download [v2ray-core releases](https://github.com/v2ray/v2ray-core/releases) for Windows or Mac.
-2. Zip and encrypt the file as explained in [File encryption](https://github.com/pika-pika-chuu/icc/edit/main/README.md#file-encryption).
+2. Zip and encrypt the file as explained in [File encryption](https://github.com/pika-pika-chuu/icc/blob/main/README.md#file-encryption).
 3. Attach the zip file to your email or upload it to your Google Drive and share it with the intended user.
-4. Now the user need to configure the software as explained in [step 2](https://github.com/pika-pika-chuu/icc/edit/main/README.md#2-setup-your-v2ray-server).
+4. Now the user need to configure the software as explained in [step 2](https://github.com/pika-pika-chuu/icc/blob/main/README.md#2-setup-your-v2ray-server).
 5. Follow **part 1** of [this](https://www.leawo.org/entips/download-and-install-iphone-apps-from-computer-1361.html) tutorial and search for [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118).
-6. The app is now transferred to your iPhone and can configure the Shadowrocket app using [step 2](https://github.com/pika-pika-chuu/icc/edit/main/README.md#2-setup-your-v2ray-server).
+6. The app is now transferred to your iPhone and can configure the Shadowrocket app using [step 2](https://github.com/pika-pika-chuu/icc/blob/main/README.md#2-setup-your-v2ray-server).
 
 
 ### More resources
